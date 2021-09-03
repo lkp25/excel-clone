@@ -29,6 +29,6 @@
         }
     }
     & .button{
-
+        @include button(red)
     }
 }
